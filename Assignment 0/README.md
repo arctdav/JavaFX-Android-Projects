@@ -1,5 +1,7 @@
-## Assignment 0 Output
+## Assignment Instruction Website
+https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments/a0.html
 
+## Assignment 0 Output
 ```
 === Hello World! ===
 java.vendor: AdoptOpenJDK
