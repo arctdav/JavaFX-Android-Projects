@@ -14,7 +14,7 @@ https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments/a4.html
 
 **Creating Notes with Name**
 
-![Creating Notes with Name](https://raw.githubusercontent.com/arctdav/JavaFX-Android-Projects/master/Assignment%204/creating_notes.PNG)
+![Creating Notes with Name](https://raw.githubusercontent.com/arctdav/JavaFX-Android-Projects/master/Assignment%204/creating_note2.PNG)
 
 **Starting Scene with Notes**
 
