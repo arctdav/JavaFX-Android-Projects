@@ -1,5 +1,5 @@
 ## Assignment 3 Instruction Website
-https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments/a2.html
+https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments/a3.html
 
 ## Assignment 3 Output Screenshots
 
