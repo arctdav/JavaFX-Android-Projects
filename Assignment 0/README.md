@@ -1,7 +1,7 @@
+## Assignment Instruction Website
+https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments/a0.html
+
 ## Assignment 0 Output
-
-Assignment instruction website: https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments/a0.html
-
 ```
 === Hello World! ===
 java.vendor: AdoptOpenJDK
