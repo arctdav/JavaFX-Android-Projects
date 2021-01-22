@@ -1,7 +1,8 @@
-## Assignment 4 Website
-https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments/a4.html
+## Android Application - Notepad
+<!--https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments/a4.html-->
+Users can view, create, modify and delete text notes. This application responds to device orientation. All the notes user created will be saved in the Android app-specific storage.
 
-## Assignment 4 Output
+## Example Output
 
 **Starting Scene**
 
