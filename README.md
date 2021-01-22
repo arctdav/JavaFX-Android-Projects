@@ -1,11 +1,21 @@
-# JavaFX-Android-Projects
+## Assignment 4 Website
+https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments/a4.html
 
-> JavaFX and Android class assignments from CS349 at Uwaterloo.
+## Assignment 4 Output
 
-> [Assignment Descriptions](https://www.student.cs.uwaterloo.ca/~cs349/s20/assignments.html)
+**Starting Scene**
+
+![Starting Scene](https://raw.githubusercontent.com/arctdav/JavaFX-Android-Projects/master/img/starting_scene.PNG)
 
 
+**Creating Notes**
 
-## Assignments Output
+![Creating Notes](https://raw.githubusercontent.com/arctdav/JavaFX-Android-Projects/master/img/creating_note.PNG)
 
-Please click into the corresponding folder.
+**Creating Notes with Name**
+
+![Creating Notes with Name](https://raw.githubusercontent.com/arctdav/JavaFX-Android-Projects/master/img/creating_note2.PNG)
+
+**Starting Scene with Notes**
+
+![Starting Scene with Notes](https://raw.githubusercontent.com/arctdav/JavaFX-Android-Projects/master/img/more_notes.PNG)
